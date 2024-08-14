@@ -1,1 +1,1 @@
-# [MuJoCo AR](www.github.com/omarrayyann/mujocoar) Companion iOS App
+# [MuJoCo AR](https://www.github.com/omarrayyann/MujocoAR) Companion iOS App
