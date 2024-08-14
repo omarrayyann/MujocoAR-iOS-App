@@ -1,0 +1,26 @@
+PODS:
+  - IQKeyboardManagerSwift (7.1.1)
+  - KeyboardHideManager (1.3.0)
+  - NVActivityIndicatorView (5.2.0):
+    - NVActivityIndicatorView/Base (= 5.2.0)
+  - NVActivityIndicatorView/Base (5.2.0)
+
+DEPENDENCIES:
+  - IQKeyboardManagerSwift
+  - KeyboardHideManager (~> 1.3)
+  - NVActivityIndicatorView
+
+SPEC REPOS:
+  trunk:
+    - IQKeyboardManagerSwift
+    - KeyboardHideManager
+    - NVActivityIndicatorView
+
+SPEC CHECKSUMS:
+  IQKeyboardManagerSwift: d7f3d3a562c237a0e7335e657cd598c452f57f1b
+  KeyboardHideManager: 624f2a5ece206638fe3004980ba0e202794b307e
+  NVActivityIndicatorView: fe52a6a68664c2df8991d7d9e3d86d8d19453c53
+
+PODFILE CHECKSUM: 79aed8a7f53e6ee936339f0a18173ed7804904a3
+
+COCOAPODS: 1.14.3

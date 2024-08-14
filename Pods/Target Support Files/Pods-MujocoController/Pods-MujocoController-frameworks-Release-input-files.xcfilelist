@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-MujocoController/Pods-MujocoController-frameworks.sh
+${BUILT_PRODUCTS_DIR}/IQKeyboardManagerSwift/IQKeyboardManagerSwift.framework
+${BUILT_PRODUCTS_DIR}/KeyboardHideManager/KeyboardHideManager.framework
+${BUILT_PRODUCTS_DIR}/NVActivityIndicatorView/NVActivityIndicatorView.framework
